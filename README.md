@@ -1,5 +1,6 @@
 # PageRank-and-Topic-Modelling
-Big Data Project which contains two Scala classes which runs on Amazon EMR
+Big Data Project utilizes two Scala classes which runs on Amazon EMR
+Code packaged into a JAR file
 Steps to Page Rank and Topic Modeling : 
 1.	Upload the 480159016_T_ONTIME_REPORTING.csv file to AWS S3 bucket
 2.	Upload the Sherlock.txt file to AWS S3 bucket
